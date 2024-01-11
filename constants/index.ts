@@ -251,6 +251,10 @@ export const Skill_data = [
     },
   ];
 
+  export const All_Skill = [
+    ...Frontend_skill, ...Backend_skill, ...Full_stack
+  ]
+
   export const All_Projects = [
     {
       image: '/projects/instagramClone.png',
