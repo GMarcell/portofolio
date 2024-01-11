@@ -33,7 +33,7 @@ const Footer = () => {
             <span className="text-gray-200 pl-2 text-xl">+62 887 2059 062</span>
           </a>
           <a
-            className="flex items-center"
+            className="flex items-center z-[50]"
             href="https://t.me/+628872059062"
             target="_blank"
           >

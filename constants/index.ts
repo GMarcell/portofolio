@@ -267,36 +267,46 @@ export const Skill_data = [
     {
       image: '/projects/instagramClone.png',
       title: 'Clone Instagram',
-      description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur officia obcaecati molestiae eligendi quis deserunt laudantium quo veritatis dolore sapiente, itaque officiis perspiciatis nam blanditiis laboriosam distinctio, at cumque suscipit!'
+      description: 'Build using ReactJS & Firebase'
     },
     {
       image: '/projects/frvrhngry.png',
       title: 'Retail Webstore',
-      description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur officia obcaecati molestiae eligendi quis deserunt laudantium quo veritatis dolore sapiente, itaque officiis perspiciatis nam blanditiis laboriosam distinctio, at cumque suscipit!'
+      description: 'Build Using ReactJS'
     },
     {
       image: '/projects/netflixClone.png',
       title: 'Clone Netflix',
-      description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur officia obcaecati molestiae eligendi quis deserunt laudantium quo veritatis dolore sapiente, itaque officiis perspiciatis nam blanditiis laboriosam distinctio, at cumque suscipit!'
+      description: 'Build using ReactJS & Firebase'
     },
     {
       image: '/projects/nuxt-movie-app.jpg',
       title: 'Movie App',
-      description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur officia obcaecati molestiae eligendi quis deserunt laudantium quo veritatis dolore sapiente, itaque officiis perspiciatis nam blanditiis laboriosam distinctio, at cumque suscipit!'
+      description: 'Build using NuxtJS & TMDB API'
     },
     {
       image: '/projects/photoGalery.png',
       title: 'Photo Galery',
-      description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur officia obcaecati molestiae eligendi quis deserunt laudantium quo veritatis dolore sapiente, itaque officiis perspiciatis nam blanditiis laboriosam distinctio, at cumque suscipit!'
+      description: 'Build Using ReactJS & Firebase'
     },
     {
       image: '/projects/Pokedex.png',
       title: 'Pokedex',
-      description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur officia obcaecati molestiae eligendi quis deserunt laudantium quo veritatis dolore sapiente, itaque officiis perspiciatis nam blanditiis laboriosam distinctio, at cumque suscipit!'
+      description: 'Build using ReactJS & PokeAPI'
     },
     {
       image: '/projects/reactToDo.png',
       title: 'To Do App',
-      description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur officia obcaecati molestiae eligendi quis deserunt laudantium quo veritatis dolore sapiente, itaque officiis perspiciatis nam blanditiis laboriosam distinctio, at cumque suscipit!'
+      description: 'Build using ReactJS & Firebase'
+    },
+    {
+      image: '/projects/vue-expense-tracker.png',
+      title: 'Expense Tracker',
+      description: 'Build using VueJS'
+    },
+    {
+      image: '/projects/vue-todo-app.png',
+      title: 'To Do App',
+      description: 'Build using VueJS'
     },
   ]
