@@ -82,15 +82,23 @@ export const Skill_data = [
   export const Socials = [
     {
       name: "Discord",
-      src: "/instagram.svg",
+      src: "/discord.svg",
+      link: 'https://discordapp.com/users/631094706930974741'
     },
     {
-      name: "Facebook",
-      src: "/facebook.svg",
+      name: "Telegram",
+      src: "/telegram.png",
+      link: 'https://t.me/+628872059062'
     },
     {
       name: "Instagram",
-      src: "/discord.svg",
+      src: "/instagram.svg",
+      link: 'https://www.instagram.com/grandmarcell/'
+    },
+    {
+      name: "Whatsapp",
+      src: "/whatsapp.png",
+      link: 'https://wa.me/+628872059062'
     },
   ];
   
