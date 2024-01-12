@@ -7,7 +7,7 @@ const Footer = () => {
     <div className="w-full h-full min-h-screen p-20" id="contact">
       <div className="flex items-center">
         <div className="border-b-2 border-red">
-          <h1 className="text-[80px] text-gray-300">Let's Work Together</h1>
+          <h1 className="text-[80px] text-gray-300">Let&#39;s Work Together</h1>
         </div>
       </div>
       <div className="pt-3 flex ">
