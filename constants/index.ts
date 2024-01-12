@@ -267,46 +267,55 @@ export const Skill_data = [
     {
       image: '/projects/instagramClone.png',
       title: 'Clone Instagram',
-      description: 'Build using ReactJS & Firebase'
+      description: 'Build using ReactJS & Firebase',
+      url: 'https://instagram-clone-d1422.firebaseapp.com/'
     },
     {
       image: '/projects/frvrhngry.png',
       title: 'Retail Webstore',
-      description: 'Build Using ReactJS'
+      description: 'Build Using ReactJS',
+      url: 'https://frvrhngry.netlify.app/'
     },
     {
       image: '/projects/netflixClone.png',
       title: 'Clone Netflix',
-      description: 'Build using ReactJS & Firebase'
+      description: 'Build using ReactJS & Firebase',
+      url: 'https://netflix-clone-5a379.firebaseapp.com/'
     },
     {
       image: '/projects/nuxt-movie-app.jpg',
       title: 'Movie App',
-      description: 'Build using NuxtJS & TMDB API'
+      description: 'Build using NuxtJS & TMDB API',
+      url: 'https://nuxtjs-movie-app.netlify.app/'
     },
     {
       image: '/projects/photoGalery.png',
       title: 'Photo Galery',
-      description: 'Build Using ReactJS & Firebase'
+      description: 'Build Using ReactJS & Firebase',
+      url: 'https://clone-instagram-6f601.firebaseapp.com/'
     },
     {
       image: '/projects/Pokedex.png',
       title: 'Pokedex',
-      description: 'Build using ReactJS & PokeAPI'
+      description: 'Build using ReactJS & PokeAPI',
+      url: 'https://simple-pokedex-new.netlify.app/'
     },
     {
       image: '/projects/reactToDo.png',
       title: 'To Do App',
-      description: 'Build using ReactJS & Firebase'
+      description: 'Build using ReactJS & Firebase',
+      url: 'https://benevolent-sawine-8d2d61.netlify.app'
     },
     {
       image: '/projects/vue-expense-tracker.png',
       title: 'Expense Tracker',
-      description: 'Build using VueJS'
+      description: 'Build using VueJS',
+      url: 'https://vue-money-tracker.netlify.app/'
     },
     {
       image: '/projects/vue-todo-app.png',
       title: 'To Do App',
-      description: 'Build using VueJS'
+      description: 'Build using VueJS',
+      url: 'https://benevolent-sawine-8d2d61.netlify.app'
     },
   ]

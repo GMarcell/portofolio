@@ -14,7 +14,12 @@ const Projects = () => {
       <div className="h-full w-full grid grid-cols-1 md:grid-cols-3 gap-10 px-10">
         {All_Projects.map(
           (
-            el: { image: string; title: string; description: string },
+            el: {
+              image: string;
+              title: string;
+              description: string;
+              url: string;
+            },
             index: number
           ) => {
             return (
@@ -23,6 +28,7 @@ const Projects = () => {
                 src={el.image}
                 title={el.title}
                 description={el.description}
+                url={el.url}
               />
             );
           }
