@@ -11,7 +11,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="pt-3 flex ">
-        <div className="flex items-center">
+        <div className="flex items-start flex-col md:flex-row md:item-center">
           <a
             href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=grand1310marcell@gmail.com"
             className="flex items-center z-[50]"
@@ -22,10 +22,8 @@ const Footer = () => {
               grand1310marcell@gmail.com
             </span>
           </a>
-          {/* <div className="flex items-center cursor-pointer">
-          </div> */}
           <a
-            className="flex items-center px-4 z-[50]"
+            className="flex items-center z-[50] py-4 md:px-4 md:py-0"
             href="https://wa.me/+628872059062"
             target="_blank"
           >
