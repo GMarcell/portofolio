@@ -310,7 +310,7 @@ export const Skill_data = [
       image: '/projects/reactToDo.png',
       title: 'To Do App',
       description: 'Build using ReactJS & Firebase',
-      url: 'https://benevolent-sawine-8d2d61.netlify.app'
+      url: 'https://fir-todo-c24d8.web.app/'
     },
     {
       image: '/projects/vue-expense-tracker.png',
