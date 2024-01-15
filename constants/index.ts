@@ -324,4 +324,10 @@ export const Skill_data = [
       description: 'Build using VueJS',
       url: 'https://benevolent-sawine-8d2d61.netlify.app'
     },
+    {
+      image: '/projects/vue-calculator.jpg',
+      title: 'Calculator App',
+      description: 'Build using VueJS',
+      url: 'https://frabjous-rolypoly-5d7b48.netlify.app/'
+    },
   ]
