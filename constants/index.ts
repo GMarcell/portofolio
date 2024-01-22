@@ -330,4 +330,10 @@ export const Skill_data = [
       description: 'Build using VueJS',
       url: 'https://frabjous-rolypoly-5d7b48.netlify.app/'
     },
+    {
+      image: '/projects/vue-weather-app.jpg',
+      title: 'Weather App',
+      description: 'Build using VueJS',
+      url: 'https://enchanting-raindrop-3a4d0f.netlify.app'
+    },
   ]
